@@ -1,0 +1,12 @@
+language: 'en_en'
+# Plugin language.
+msgcooldown: 10
+# Delay between messages
+delay: 100
+# The time between going to bed with the last player needed and skipping the night.
+playermustsleep: 'half' 
+# Number of required players.Can be 'custom', 'half', 'quarter', 'all'.
+playersneed: 2
+# Custom number of players needed to skip the night.
+
+
